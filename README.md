@@ -3,5 +3,5 @@
 
 A new Flutter project.
 
-Applicación de Flutter que cañcula el Age, el BMI y el Zodiac Sign
+Applicación de Flutter que calcula el Age, el BMI y el Zodiac Sign
 
